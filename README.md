@@ -2,7 +2,7 @@
 
 A simple, stylish personal finance tracker built with **React**, **TailwindCSS**, and **Chart.js**. It helps you track income and expenses monthly, visualize your financial data with charts, and stores everything locally on your browser.
 
----
+![Demo](./assets/demo.gif)
 
 ## ✨ Features
 
